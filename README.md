@@ -1,1 +1,1 @@
-<img width="659" height="270" alt="Futuristic light and wireframe design (1)" src="https://github.com/user-attachments/assets/df063b19-7143-4873-ba4c-03cd25dd933a" />
+<img width="1536" height="500" alt="Futuristic light and wireframe design" src="https://github.com/user-attachments/assets/87ad62c7-b80a-4c3d-92bd-fb04ff497b78" />
