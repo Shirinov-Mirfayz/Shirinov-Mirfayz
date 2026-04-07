@@ -1,4 +1,5 @@
-<img width="1536" height="1024" src="https://github.com/user-attachments/assets/4c52cc1f-b2c1-4089-9607-b7ed21ad4fe6" />
+<img width="1536" height="1024" alt="Data engineering in the cloud ecosystem" src="https://github.com/user-attachments/assets/a2150392-5f08-4d63-bb89-72eb7d30561b" />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg">
